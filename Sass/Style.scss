@@ -1,0 +1,15 @@
+body {
+  height: 100%;
+  .counting {
+    margin-top: 15%;
+    align-content: center;
+    flex-wrap: wrap;
+    input:focus,
+    button:focus {
+      box-shadow: none;
+    }
+    .btnhoverd:hover {
+      background-color: rgb(80, 203, 203);
+    }
+  }
+}
