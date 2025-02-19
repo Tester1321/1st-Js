@@ -16,5 +16,5 @@ This is a simple JavaScript-based Zakah calculator. It takes a monetary amount a
 Clone the repository:
 
 ```bash
-git clone https://github.com/TesterXXXX/zakah-calculator.git
+git clone https://github.com/Tester1321/1st-Js.git
 ```
